@@ -1,2 +1,2 @@
-# Measuring the impact of Federal Reserve policy makers public communication on financial markets
+# Measuring the impact of policy makers public communication on financial markets
 
